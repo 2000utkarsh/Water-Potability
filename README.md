@@ -79,6 +79,8 @@ In the final phase, I developed the UI for the model and then linked my model wi
 
 <img src="https://github.com/2000utkarsh/Water-Potability/blob/master/app/imgs/Screenshot%202021-09-20%20at%208.24.03%20PM.png" width="500" height="400" />
 
+
+## Output Screen
 <img src="https://github.com/2000utkarsh/Water-Potability/blob/master/app/imgs/Screenshot%202021-09-20%20at%208.24.07%20PM.png" width="500" height="400" />
 
 
